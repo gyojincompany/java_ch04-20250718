@@ -12,8 +12,10 @@ public class IfTest02 {
 		
 		if (number == 1) {
 			System.out.println("일이 나왔습니다.");
+			System.out.println("1111111");
 		} else if (number == 2) {
 			System.out.println("이가 나왔습니다.");
+			System.out.println("2222222");
 		} else if (number == 3) {
 			System.out.println("삼이 나왔습니다.");
 		} else if (number == 4) {
